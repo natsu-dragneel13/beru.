@@ -1,5 +1,5 @@
 ![BERU](https://cdnb.artstation.com/p/assets/images/images/031/557/425/medium/kirt-victor-1beru-wp-computer-lq.jpg?1603954203) 
-# BERU_MA_BOT
+# BERU
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/6141417ceaf84545bab6bd671503df51)](https://app.codacy.com/gh/AnimeKaizoku/SaitamaRobot?utm_source=github.com&utm_medium=referral&utm_content=AnimeKaizoku/SaitamaRobot&utm_campaign=Badge_Grade_Settings)  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://perso.crans.org/besson/LICENSE.html) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com) [![Updates channel!](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/BERUBOT_SUPPORT)
 
 
@@ -7,7 +7,7 @@ A modular Telegram Python bot running on python3 with a sqlalchemy database.
 
 Originally a Marie fork, BERU evolved further and was built to be more robust and more dedicated to Anime Chats. 
 
-Can be found on telegram as [BERU ROBOT](https://t.me/BERU_MA_BOT).
+Can be found on telegram as [BERU ROBOT](https://t.me/BERU).
 
 The Support group can be reached out to at [BERU SUPPORT](https://t.me/BERU_BOT_SUPPORT), where you can ask for help about [BERUBOT](https://t.me/BERU_MA_BOT),discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
@@ -31,7 +31,7 @@ Turn on worker dyno (Don't worry It's free :D) & Webhook
 Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.com/apps/(app-name)/settings and remove webhook and port.
 ```
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/natsu-dragneel13/BERU_MA_BOT) 
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/natsu-dragneel13/BERU) 
 
 </details>  
 <details>
@@ -201,7 +201,7 @@ For queries or any issues regarding the bot please open an issue ticket or visit
 ## How to setup on Heroku 
 For starters click on this button 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/natsu-dragneel13/Beru_MA_BOTgit) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/natsu-dragneel13/Berugit) 
 
 
 ## Credits
